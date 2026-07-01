@@ -1,0 +1,36 @@
+----------------------------------------
+Datum: 27.06.2026 23:47
+Name: rudi
+E-Mail: rudi@keilany.de
+Telefon: 1234567
+Betreff: rudis site
+Nachricht:
+moinmoin,
+dies ist eine nachricht von der website.
+koennen sie mein auto reparieren?
+----------------------------------------
+Datum: 27.06.2026 23:54
+Name: ali
+E-Mail: tartaros-x@yahoo.de
+Telefon: 765432
+Betreff: auto kaputt
+Nachricht:
+ich habe elektrisch...
+koennen sie reparieren (s3)?
+----------------------------------------
+Datum: 27.06.2026 23:55
+Name: ali
+E-Mail: tartaros-x@yahoo.de
+Telefon: 765432
+Betreff: auto kaputt
+Nachricht:
+ich habe elektrisch...
+koennen sie reparieren (s3)?
+----------------------------------------
+Datum: 01.07.2026 09:59
+Name: a
+E-Mail: root@keilany.de
+Telefon: 
+Betreff: v
+Nachricht:
+gg
